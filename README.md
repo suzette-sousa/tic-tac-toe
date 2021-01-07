@@ -1,1 +1,3 @@
-# tic-tac-toe
+# TICTACTOE
+
+## Scrimba Tutorial
