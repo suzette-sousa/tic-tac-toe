@@ -1,3 +1,5 @@
 # TICTACTOE
 
-## Scrimba Tutorial
+## REACT & REACT Hooks training
+
+Scrimba Tutorial
